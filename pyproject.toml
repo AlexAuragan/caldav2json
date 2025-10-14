@@ -1,0 +1,11 @@
+[project]
+name = "caldav2json"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "caldav>=2.0.1",
+    "certifi==2024.7.4",
+    "icalendar>=6.3.1",
+]
